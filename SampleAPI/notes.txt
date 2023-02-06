@@ -1,0 +1,27 @@
+api creation
+---------------
+microsoft.entityframeworkcore.inmemory
+
+create a model folder -> 
+create a model class
+
+create data folder -> for dbcontext
+create class -<contactapidbcontext 
+
+import dbcontext to the class
+
+now to push the inmemory data to sql
+microsoft.entityframeworkcore.sqlserver
+microsoft.entityframeworkcore.tools
+
+on the vs console
+Add-Migration  "Initial migration" -->Enter
+this will process the migration steps, will create a class with all codes to migratin the database
+
+Update-Database 
+this will update all the commands and statements into the new db.
+
+
+
+
+

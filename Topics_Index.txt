@@ -1,0 +1,75 @@
+What is an api?
+What are the different types of api?
+Examples of each API?
+When to use the type of Api?
+what is authentication and authorization?
+types of authentication?
+how to implement those?
+
+what is saml?
+what are the types of componenets in saml?
+how its implemented?
+what are the pros and cons of it?
+how it is different from other apis?
+Example of using saml?
+
+what is entity framework? 
+how it works?
+examples?
+
+
+solid principles? 
+
+what is .net core?
+what is the difference between old framework and .net core?
+how to implement api's in .net core?
+how to implement api's in old framework?
+the other concepts inside the .net core we will discuss
+
+
+
+example will give you basic understanding of how to create api's
+and how to use it using swagger.
+also includes entityframework with inmemory functionality.
+
+and finally will push the entityframework tables to sql server.
+
+books api 
+insert , update, delete,view crud operations
+using entity framework
+
+book structure / table db
+
+bookname - string
+price - int/ float
+date of publication - datetime
+....
+....
+
+model is teh structure of book
+
+insert api
+update api
+delete api
+list of books - list api
+
+-------------------
+
+dependency injection - .net core part important (oops concepts + solid priciples)
+security, authentication/ authorization
+api's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
